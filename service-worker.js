@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.38b47c6df35ac6b247bceb6ba72d901f.js"
+  "/precache-manifest.589c99501369ef8374772f129a482640.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sai-chant"});
